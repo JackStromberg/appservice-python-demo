@@ -1,4 +1,4 @@
 Flask==0.12.1
 numpy==1.15.0rc2
-pandas==0.23.3
 matplotlib==2.2.2
+pandas==0.23.3
