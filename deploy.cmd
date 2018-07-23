@@ -1,6 +1,6 @@
 :: 1. Install Wheel
 echo Configure Wheel
-python.exe -m pip install wheel
+D:\home\python364x64\python.exe -m pip install wheel
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 2. Install packages
