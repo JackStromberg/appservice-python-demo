@@ -1,4 +1,4 @@
 --find-links wheelhouse
 Flask==0.12.1
 numpy==1.15.0rc2
-pandas==0.22.0
+pandas==0.23.3
