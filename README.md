@@ -1,6 +1,6 @@
 # Python Flask app on Azure App Service Web
 
-This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service Web.
+This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service Web.  This also includes deployment using Wheel to install packages like numpy and Pandas.
 
 This repository can directly be deployed to Azure App Service.
 
