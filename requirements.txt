@@ -1,4 +1,4 @@
 --find-links wheelhouse
-Flask==0.12.1
-numpy==1.15.0rc2
-pandas==0.23.3
+Flask==1.1.1
+numpy==1.16.4
+pandas==0.25.0
